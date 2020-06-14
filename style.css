@@ -1,0 +1,12 @@
+body {
+	background-color: lightslategray;
+}
+
+#input-box {
+	height: 25vh;
+	width: 50vw;
+	top: 12.5vh;
+	left: 25vw;
+	position: absolute;
+	background-color: whitesmoke;
+}
